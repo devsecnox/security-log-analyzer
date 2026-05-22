@@ -48,7 +48,7 @@ Proje çıktısı olan grafikler aşağıdadır:
 ### 3. Risk Puanı Dağılımı
 ![Risk Dağılımı](risk_dagilimi.png)
 
-*Geliştirici: [Muhammed Emir Tohumcu/Myrrion]*
+*Geliştirici: [Muhammed Emir Tohumcu]*
 
 
 
